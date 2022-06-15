@@ -1,3 +1,9 @@
+@import url(common.css);
+@import url(header.css);
+@import url(products.css);
+@import url(footer.css);
+
+
 #header-img {
     width: 5px;
     margin-left: 5px;
